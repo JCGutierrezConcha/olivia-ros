@@ -1,2 +1,2 @@
 # Olivia Ros
-Página de bloggera de comidas creada utilizando HTML5, CSS y Bootstrap5.
+Página de bloggera culinaria creada utilizando HTML5, CSS y Bootstrap5.
